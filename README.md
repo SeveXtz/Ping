@@ -15,17 +15,3 @@
 </p>
 
 
-#Instalação do MS.Ping
-
-Termux/Linux
-
-git clone https://github.com/SevenXtz7/Ping
-
-cd ping.py
-
-#Execução no Terminal
-
-python3 ping.py
-
-
-#Ocean Corporation
