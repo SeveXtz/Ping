@@ -11,7 +11,7 @@ g = '\033[49;92m'
 b = '\033[49;34m'
 w = '\033[0;49;37m'
 
-print (f'{r}Ocean Corporation >> ms.ping{Fore.RESET}')
+print (f'{r}Ocean Corporation >> ms.ping{rf}')
 p = "ping"
 s = input(f'{rf}[+]{w} Insira o alvo;\n>>{Fore.RED} ')
 print (f'{Fore.GREEN}')
