@@ -13,7 +13,7 @@ w = '\033[0;49;37m'
 
 print (f'{r}Ocean Corporation >> ms.ping')
 p = "ping"
-s = input(f'{rf}[+]{w} Insira o alvo:\n>>{Fore.RED} ')
+s = input(f'{rf}[+]{w} Insira o alvo:\n>>{rf} ')
 print (f'{Fore.GREEN}')
 x = p + ' ' + s
 os.system(x)
